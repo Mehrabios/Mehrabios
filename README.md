@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mehrab Anbarloo</h1>
+<h3 align="center">I am Front-End developer who loves programing.👨‍💻</h3>
 
-<!--
-**Mehrabios/Mehrabios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React.js**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **HTML , CSS , JS , Bootstrap , Front-End**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **t.me/Mehrabios**
+
+- ⚡ Fun fact **I have a twin brother!**
+
+
+**Skills : HTML / CSS / JS / Bootstrap / Sass / Front-End**
