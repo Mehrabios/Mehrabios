@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mehrab Anbarloo</h1>
-<h3 align="center">I am Front-End developer who loves programing.👨‍💻</h3>
+# Hi everyone, I'm Mehrab Anbarloo
+I am Front-End developer who loves programing.👨‍💻
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **Back-End Development**
 
 - 💬 Ask me about **HTML , CSS , JS , Bootstrap , Front-End**
 
